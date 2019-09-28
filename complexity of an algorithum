@@ -1,0 +1,5 @@
+space and time complexity:
+space complexity : deals with how much memory space(primary memory)  has been used during the excution of the program.
+time complexity :deals with how much time is required for the complete execution of the program.Generally complexity means time complexity.
+A symtottic notation are the notation used to determine the efficiency of the algorithm.
+Commonly 

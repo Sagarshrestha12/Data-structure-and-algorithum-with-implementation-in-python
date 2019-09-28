@@ -1,0 +1,44 @@
+Data structure:
+It is the way of organizing the data items and establishing the relationship between them so that they can make a program more effective for execution of the program.It is systematic way to organize data in order to use it efficiently.
+To develop the program,we should select the appropriste data structure for that program.Therefore , algorithum and its associated data structures form a program.
+
+A static data structure is one whose capacity is fixed at creation. For example:array is one example of the static data structure.
+best Algorithum + best data structure = best progrma
+
+A dynamic data structure is one whose capacistey is variable,so it can expand or contract at any time. For example:linked list, binary tree etc
+
+1.Classification of the data structure:
+a. Primitive data structure: 
+         integer, float,character,pointer
+b.Non-Primitive data structure:
+         It is further divided into two types:
+         1. linear and 2. Non-linear
+b.1.1:linear:
+1-->generalizing indexing: 
+             Dictionary and hash table:
+2-->Direct Access:
+        Array(sorted and unsorted), record, file
+3-->Sequentail Access:
+       List(linked representation and sequential Representaion)
+       Stack
+       Queue
+       Priority Queue
+Nonlinear data structure:
+1.Hierarchical:(Tree and Heap)
+2.Group(set and Graph)
+
+
+
+@Algorithum:
+ An algorithum is well defined procedure that allows a computer to solve a problem or step by step procedure of solving the problem.
+ Diffrent types of algorithums:
+ Recursive algorithums
+ Dynamic programming algorithum
+ Backtracking algorithm
+ Greedy algorithm and many more.
+ From data structure point of view , follwing are some imp categories of algorithms:
+ search: Algorithm to search an items in data structure
+ sort- Algorithm to sort items in a  certain order 
+ Insert -Algorithm to update an existing item in a data structure.
+ Delete-Algorithm to delete an existing item from a data structure. 
+ ///////
