@@ -1,0 +1,12 @@
+It is data structure that implements an ordered collection of values, where the same  may occur more than once.Each value in the list is called an item, or an entry or elts of the list.It differs from the stack and queue in such a way that additions and removal can be made at any positions in the list.
+Static data structures are of fixed size(eg: array)i.e the memory allocated remain same throughout the program execution i.e the size of the array is fixed.So, we must know the upper limits of number of elts in advance.Also generally,the allocated memory is equal to the upper limits irrespective of the usage, and in 
+practical uses,upper limits is rarely reached.
+
+-->Dynamic data structure,on the other sied ,have flexible(eg. linked list) size i.e they can grow or shrink as needed to stroe data during the runtime.
+
+--> Static data structure allows faster access to elts but is expensive for insertion/deletion of elts as while inserting the elts we have to shift the elts 
+which cause the time consuming in execution.
+
+whereas in case of dynamic DS(i.e linked list) access to elts is slower but insertion/deletion operation are faster
+
+--> In the case of static data structure, memory space is allocated to actual operation on  the list. Hence, the memory may go wasted or may be insufficient in case. So ,static implementation requires the knowledge of the exact amount of data in advance.If there is no certainity about amount data to be used in advance ,dynamic implementation (i.e linked list) is to be used
